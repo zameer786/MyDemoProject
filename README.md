@@ -1,7 +1,7 @@
 # MyDemoProject
 This is my first Demo Project
 <br> 
-Author: Zameer KL
+Author: Zameer K Laxmeshwar
 <br> 
 Date: 19/07/2025
 <br> 
